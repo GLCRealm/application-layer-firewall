@@ -92,7 +92,5 @@ application-layer-firewall/
 - Machine learning-based detection for advanced threat identification.
 - Dashboard for monitoring requests and logs.
 
----
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+
