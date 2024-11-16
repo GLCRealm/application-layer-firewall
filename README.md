@@ -30,7 +30,7 @@ This project is an **Application-Layer Firewall** built with Flask. It is design
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/application-layer-firewall.git
+   git clone https://github.com/GLCRealm/application-layer-firewall.git
    cd application-layer-firewall
    ```
 
